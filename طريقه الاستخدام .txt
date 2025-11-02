@@ -1,7 +1,0 @@
-pkg update && pkg upgrade
-pkg install git
-git clone https://github.com/MOHAMED-AL7AKM/7akm-haking
-cd 7akm-haking
-chmod +x install.sh
-./install.sh
-./whatsapp_simulator.sh
