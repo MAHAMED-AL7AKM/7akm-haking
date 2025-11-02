@@ -1,12 +1,12 @@
-# MOHAMED-AL7AKM Tool
+# MOHAMED-AL7AKM WhatsApp Tool
 
-أداة متخصصة مطورة بواسطة MOHAMED-AL7AKM
+Specialized tool developed by MOHAMED-AL7AKM
 
-## 📞 تواصل مع المطور
-- تليجرام: [@DAD_MOHAMED](https://t.me/DAD_MOHAMED)
+## 📞 Contact Developer
+- Telegram: [@DAD_MOHAMED](https://t.me/DAD_MOHAMED)
 - GitHub: [MOHAMED-AL7AKM](https://github.com/MOHAMED-AL7AKM)
 
-## 🛠️ التثبيت
+## 🛠️ Installation
 `bash
 git clone https://github.com/MOHAMED-AL7AKM/7akm-haking.git
 cd 7akm-haking
