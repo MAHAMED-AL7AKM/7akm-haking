@@ -1,0 +1,7 @@
+pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/yourusername/whatsapp-verification-simulator
+cd whatsapp-verification-simulator
+chmod +x install.sh
+./install.sh
+./whatsapp_simulator.sh
